@@ -58,7 +58,7 @@ int main()
   Circulo c1(2,3,3.5);
   Circulo c2(8.3);
   Circulo c3;
-    float getArea();
+    float getArea;
 
   c1.intersects(c2);
   c2.intersects(c3);
